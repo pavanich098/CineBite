@@ -1,0 +1,10 @@
+127.0.0.1 - - [01/Aug/2025:18:39:47 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:39:49 +0530] "GET /cinebite/ HTTP/1.1" 401 46
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:39:50 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:41:25 +0530] "OPTIONS /cinebite/api/users/create HTTP/1.1" 200 5
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:41:28 +0530] "POST /cinebite/api/users/create HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:43:20 +0530] "OPTIONS /cinebite/api/auth/login HTTP/1.1" 200 5
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:43:21 +0530] "POST /cinebite/api/auth/login HTTP/1.1" 401 35
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:43:42 +0530] "POST /cinebite/api/auth/login HTTP/1.1" 401 35
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:44:06 +0530] "POST /cinebite/api/auth/login HTTP/1.1" 200 164
+0:0:0:0:0:0:0:1 - - [01/Aug/2025:18:44:34 +0530] "POST /cinebite/api/auth/login HTTP/1.1" 200 168
